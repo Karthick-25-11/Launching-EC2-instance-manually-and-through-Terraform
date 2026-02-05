@@ -41,3 +41,7 @@ Conclusion
 
 This project gave me hands-on experience with both manual EC2 configuration and automated EC2 deployment using Terraform. It strengthened my understanding of AWS core services and infrastructure as code, and helped me build confidence in debugging networking and deployment issues in cloud environments.
 
+Checkout my LOOM video :
+Manual Config: [https://www.loom.com/share/3e52b52dce1c478280f2d93b8872600e]
+Terraform : [https://www.loom.com/share/f7870e438b0941c0a585da3727d47c69]
+
